@@ -7,7 +7,7 @@ This repository contains instructions, schematics, packages and examples to prog
 ## Description
 ![DSC_0073](https://github.com/Omicron-IoT-Solutions/Humitemp/assets/141452095/5efd30bd-0e3b-4d95-9e18-2f8a32dd7e29)
 
-The Humitemp® has been designed for on-site visualization and remote monitoring of relative humidity, temperature, and door states in environments or processes that require accurate monitoring of these variables. These devices have an internal sensor to measure Ambient Temperature and Relative Humidity; as well as 2 ports for temperature submersible sensors, or for digital door opening sensors. They are offered with support for a WEB IoT platform for monitoring variables and a 4-digit LCD display.
+The Humitemp® has been designed for on-site visualization and remote monitoring of relative humidity, ambient, and refrigeration and freezing temperatures, and door states in environments or processes that require accurate monitoring of these variables. They are offered with support for a WEB IoT platform for monitoring variables and a 4-digit LCD display.
 
 Given its features and the possibility of connecting external sensors, the Humitemp® is an efficient and reliable solution in applications such as laboratories, blood banks, food production and processing plants, hospitals, cooling rooms, refrigerators, stability chambers, incubators, server rooms, flower farms, refrigerated transport, among many others.
 
